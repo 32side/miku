@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "author": "32shade <sugarbaby_cat@yahoo.co.jp>",
+  "license": "ISC",
   "description": "(miku-bot for slack)",
   "scripts": {
     "start": "env HUBOT_SLACK_TOKEN=xoxb-953508061828-956195450646-J1P27ASCFSjaEhgHFOOrFa40 bin/hubot --adapter slack",
