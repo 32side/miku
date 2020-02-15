@@ -1,0 +1,8 @@
+{
+  "name": "miku-bot",
+  "description": "for slack",
+  "repository": "https://github.com/32side/miku",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
