@@ -32,6 +32,7 @@ module.exports = (robot) => {
     lot = Math.random();
     if (lot < 0.9) {
       const messages = [
+        'うふふっ♪',
         'はーいっ。初音ミクだよー！',
         'ﾐｯｸﾐｸにしてあげるっ！',
         'うほほうほーい。',
