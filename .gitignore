@@ -1,9 +1,0 @@
-node_modules
-.DS_Store*
-.hubot_history
-Procfile
-yarn.lock
-external-scripts.json
-app.json
-openweathermap_spot_copy
-bin
