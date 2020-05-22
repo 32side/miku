@@ -6,7 +6,7 @@
   "license": "ISC",
   "description": "(miku-bot for slack)",
   "scripts": {
-    "start": "env HUBOT_SLACK_TOKEN=xoxb-953508061828-956195450646-B1lTFgOCHPt3HEdkArHNO1e5 bin/hubot --adapter slack",
+    "start": "env HUBOT_SLACK_TOKEN=xoxb-953508061828-956195450646-5lZTyjIsq5oAfWQ6mcskFv8q bin/hubot --adapter slack",
     "test": "bin/hubot"
   },
   "dependencies": {
